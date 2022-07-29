@@ -42,6 +42,7 @@ In the next images, we can see the average scores per grade. Since we erase the 
 
 Math Scores
 ![5](https://github.com/DylanMontemayor/School_District_Analysis/blob/main/Resources/Images/5.png)
+
 Reading scores
 ![4](https://github.com/DylanMontemayor/School_District_Analysis/blob/main/Resources/Images/4.png)
 
