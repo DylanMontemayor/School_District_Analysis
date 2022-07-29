@@ -41,9 +41,11 @@ Bottom 5
 In the next images, we can see the average scores per grade. Since we erase the 9th grade for Thomas High School, it is only possible to compare the information of other schools. For the 10th, 11th, and 12th grades we can see the general performance by grade.
 
 Math Scores
+
 ![5](https://github.com/DylanMontemayor/School_District_Analysis/blob/main/Resources/Images/5.png)
 
 Reading scores
+
 ![4](https://github.com/DylanMontemayor/School_District_Analysis/blob/main/Resources/Images/4.png)
 
 ### The Spending Summary
